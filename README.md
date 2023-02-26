@@ -7,3 +7,10 @@ The program uses the time() and localtime() functions to get the current time fr
 The program then uses a Clock object to store and manipulate the time, and a display() function to show the time in both formats.
 
 The program also includes a menu() function to get user input and a loop to continue running until the user selects "Exit Program".
+
+Something i did particularly well was the way i began practicing regularly commenting out what i am writing so future comtributers will have a better understanding.
+
+Something i could enhance would be the better whitespacing and format. 
+
+One skill i would like to take from this little project would be the parctice of commenting code as i write. 
+
